@@ -43,3 +43,8 @@ In the final step, we analyzed the results and determined which sampling techniq
 
 ## Conclusion
 This project provides a comprehensive methodology for balancing an imbalanced data-set using various sampling techniques and comparing the performance of different ML models on the balanced data-set.
+
+
+### Submitted By: Sanchita Bora
+### Roll No.: 102003177
+### Group: 3COE8
