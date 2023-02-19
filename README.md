@@ -32,7 +32,7 @@ v) Convenience Sampling<br>
 3. Applying Five Different Sampling Techniques on Five Different ML Models
 In this step, we applied five different samples on five different ML models and compare their performance on the balanced data-set. The following models are being used:<br>
 i) Logistic Regression<br>
-ii) Random Forest<br>
+ii) Decision Tree Classifier<br>
 iii) Naive Bayes<br>
 iv) Support Vector Machines (SVM)<br>
 v) K-Nearest Neighbors (KNN)<br>
