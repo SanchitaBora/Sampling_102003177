@@ -17,7 +17,7 @@ The project is divided into three main steps as follows:
 In this step, we balanced the class distribution of the data-set using oversampling.
 
 2. Creating Five Samples:<br>
-We created five samples of the data-set using the sample size detection formula 
+We created five samples of the data-set using the sample size detection formula <br>
 <b>n=(Z^2*p*(1-p))/(E^2)</b><br>
 where, Z=1.96 (assumed)<br>
        p=0.5 (assumed)<br>
